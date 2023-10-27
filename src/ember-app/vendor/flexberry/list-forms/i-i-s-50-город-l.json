@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-50-город-e",
+  "editForm": "i-i-s-50-город-e",
+  "external": false,
+  "caption": "Город",
+  "name": "IIS50ГородL",
+  "className": "ГородL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-50-город",
+      "modelProjection": "ГородL"
+    }
+  ]
+}

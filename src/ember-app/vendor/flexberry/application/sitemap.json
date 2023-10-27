@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "50",
+  "applicationTitle": "50",
+  "items": [
+    {
+      "link": null,
+      "menuName": "50",
+      "caption": "50",
+      "title": "50",
+      "children": [
+        {
+          "link": "i-i-s-50-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-50-метеостанция-l",
+          "menuName": null,
+          "caption": "Метеостанция",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-50-здание-l",
+          "menuName": null,
+          "caption": "Здание",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

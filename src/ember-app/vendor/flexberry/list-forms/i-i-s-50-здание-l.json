@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-50-здание-e",
+  "editForm": "i-i-s-50-здание-e",
+  "external": false,
+  "caption": "Здание",
+  "name": "IIS50ЗданиеL",
+  "className": "ЗданиеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-50-здание",
+      "modelProjection": "ЗданиеL"
+    }
+  ]
+}

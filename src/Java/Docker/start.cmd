@@ -1,0 +1,1 @@
+docker-compose -p 50-java up -d

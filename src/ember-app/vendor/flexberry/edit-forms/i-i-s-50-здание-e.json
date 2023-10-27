@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Здание",
+  "name": "IIS50ЗданиеE",
+  "className": "ЗданиеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-50-здание",
+      "modelProjection": "ЗданиеE"
+    }
+  ]
+}
